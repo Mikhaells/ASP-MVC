@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ks7m3ixDpwW6n7C0zlxkC98uX8UG6A+w5MSdC4URfYWZSZkCAXwjcahcIy9M44kvOZwHs9K1RAuUjrLzL0UxuA==",
+  "success": true,
+  "projectFilePath": "E:\\PDA\\PDA\\PDA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ale\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
